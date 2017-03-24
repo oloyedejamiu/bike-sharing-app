@@ -33,6 +33,11 @@ p {
 h1 {
 	font-size: 48px;
 }
+
+h1.ride-sharing {
+	margin-top: 22px;
+}
+
 h2 {
 	font-size: 2.6rem;
 	text-align: center;
